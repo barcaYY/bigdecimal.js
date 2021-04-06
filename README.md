@@ -1,4 +1,4 @@
-#  BigDecimal for Javascript
+#  BigDecimal for Javascript 解决js计算精度问题
 
 *BigDecimal for Javascript* is a pure-Javascript implementation of immutable, arbitrary-precision, signed decimal numbers. BigDecimal supports **decimal** math with arbitrary precision.
 
